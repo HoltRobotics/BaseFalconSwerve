@@ -61,6 +61,7 @@ These instructions are mostly followable from Step
 This code is natively setup to use a xbox controller to control the swerve drive. </br>
 * Left Stick: Translation Control (forwards and sideways movement)
 * Right Stick: Rotation Control </br>
+* Left Bumper: Switches To Robot Centric Control while held
+* A Button: Slows the robot driving by half.
 * Start button: Zero Gyro (useful if the gyro drifts mid match, just rotate the robot forwards, and press Start to rezero)
 * Back button: Reset Encoders (useful if a wheel gets misaligned mid match)
-* Left Bumper: Switches To Robot Centric Control while held
